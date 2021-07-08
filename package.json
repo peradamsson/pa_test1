@@ -1,0 +1,25 @@
+{
+  "name": "pa_test1",
+  "version": "1.0.0",
+  "description": "Just testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peradamsson/pa_test1.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Per Adamsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peradamsson/pa_test1/issues"
+  },
+  "homepage": "https://github.com/peradamsson/pa_test1#readme",
+  "engines": {
+    "node": ">=14.17.3"
+  }
+}
